@@ -10,5 +10,5 @@
 
 # Run tests by navigatting to the TutorProject and running commmand "python3 manage.py test TutorApp"
 
-
+This project holds functionality for the WSU VCEA tutoring center.
 
